@@ -1,0 +1,3 @@
+contest_id,contest_name
+1,Weekly Contest 1
+2,Weekly Contest 2

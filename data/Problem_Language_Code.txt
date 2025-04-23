@@ -1,0 +1,4 @@
+code_mapping_id,problem_language_id,pre_code,post_code,solution_code,boilerplate_code
+1,1,# Pre,# Post,# Solution,# Boilerplate
+2,2,// Pre,// Post,// Solution,// Boilerplate
+3,3,# Pre,# Post,# Solution,# Boilerplate
